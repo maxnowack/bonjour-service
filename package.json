@@ -2,6 +2,7 @@
   "name": "bonjour-service",
   "version": "1.0.0",
   "description": "A Bonjour/Zeroconf implementation in TypeScript",
+  "types": "./dist/index.d.ts",
   "main": "./dist/index.js",
   "dependencies": {
     "array-flatten": "^2.1.2",
